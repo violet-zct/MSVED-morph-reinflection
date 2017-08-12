@@ -1,0 +1,3 @@
+pos=verb,tense=present,mod=ind	played	pos=verb,tense=present,mod=ind	play
+pos=adj,color=neg	files	pos=adj,color=pos,tense=whatever	files
+pos=verb,tense=past,mod=kk	running	pos=verb,tense=now,mod=pp	runnn

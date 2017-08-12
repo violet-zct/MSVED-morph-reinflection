@@ -1,0 +1,3 @@
+play	pos=verb,tense=present,mod=ind	played
+trivial	pos=adj,color=neg	untrivial
+decided	pos=verb,tense=past,mod=cc	decide	
